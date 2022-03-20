@@ -1,3 +1,3 @@
 # FlexCSS
-Demo Webpage with CSS using Flex.
-CSS file are formatted base on Bootstrap template
+This project is used to display information about Assignment 1 in BDC Training Spring Program
+
